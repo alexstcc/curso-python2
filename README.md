@@ -5,4 +5,4 @@ Praticas baseadas no Curso da UDEMY "Curso de Python 3 do básico ao avançado -
 Criado com o intuito de servir como consulta para iniciantes em Python, assim como eu.
 
 Alex Antonio Silva
-Quality Enginier na <db>
+Quality Enginier na db
